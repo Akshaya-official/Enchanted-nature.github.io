@@ -1,0 +1,361 @@
+/* Nav bar styles */
+.nav a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: all 1s ease;
+}
+.nav a:hover{
+    background-color: rgb(17, 106, 223);
+    border-radius: 30px;
+}
+.active{
+    background-color: rgb(17, 106, 223);
+    border-radius: 30px;
+}
+
+/* hero */
+.hero{
+    margin-top: -160px;
+}
+.hero-btn{
+    background-color: rgb(17, 106, 223);
+    margin-top: 20px;
+    border-radius: 6px;
+}
+.hero-btn:hover{
+    background-color: rgba(17, 106, 223, 0.781);
+}
+.hero-text{
+    margin-top: -50px;
+}
+
+.cards{
+    border-radius: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(247, 250, 255);
+    transition: all 0.3s ease;
+}
+
+.NameC{
+    font-family: sans-serif;
+}
+
+.card-image{
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.cards:hover{
+    margin-top: -20px;
+    background-color: rgba(205, 197, 253, 0.89);
+}
+
+.detail{
+    margin-top: -15px;
+    font-weight: 600;
+    transition: all 1s ease;
+}
+
+.back{
+    height: 100vh;
+}
+
+.useless{
+    padding-bottom: 150px;
+}
+
+.hero-btn2{
+    background-color: rgb(17, 106, 223);
+    margin-top: 20px;
+    border-radius: 6px;
+}
+.hero-btn2:hover{
+    background-color: rgba(17, 106, 223, 0.781);
+}
+.hero-big-img{
+    height: 500px;
+}
+
+.peek-txt{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* About */
+/* Hero */
+.about-hero{
+    background-color: rgba(194, 194, 194, 0.336);
+    height: 300px;
+    transition: all 1s ease;
+}
+
+.about-hero:hover{
+    background-color: rgba(134, 134, 134, 0.336);
+}
+.dp-img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    transition: all 0.5 ease;
+}
+
+.dp{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.about-page-txt{
+    display: block;
+    padding-right: 40px;
+    padding: 5px;
+    transition: all 1s ease
+}
+.about-page-txt:hover{
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 20px;
+}
+
+.author{
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    text-align: right;
+    padding-right: 41px;
+    margin-top: 15px;
+    transition: all 1s ease;
+}
+.author:hover{
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 50px;
+}
+.texty{
+    color: rgb(17, 106, 223);
+    transition: all 1s ease;
+}
+.texty:hover{
+    color: rgb(13, 75, 156);
+}
+.about{
+    transition: all 1s ease;
+}
+.about:hover{
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 50px;
+}
+
+.skills{
+    margin-top: 50px;
+    background-color: rgba(194, 194, 194, 0.336);
+    height: 400px;
+    transition: all 1s ease;
+}
+.skills:hover{
+    background-color: rgba(134, 134, 134, 0.336);
+}
+.my-skills{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.s-text{
+    font-weight: 900;
+    font-family: sans-serif;
+    transition: all 1s ease;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+
+.s-text:hover{
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 30px;
+}
+.icon-about{
+    height: 25px;
+    width: 25px;
+    padding-right: 2px;
+}
+.in-skill{
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.in-skill:hover{
+    background-color: rgba(95, 57, 57, 0.39);
+    border-radius: 20px;
+}
+.name{
+    font-weight: bold;
+    font-size: 25px;
+}
+.bar1{
+    border-radius: 50px;
+    margin-left: 100px;
+    
+}
+.bar2{
+    border-radius: 50px;
+    margin-left: 125px;
+}
+.bar3{
+    border-radius: 50px;
+    margin-left: 52px;
+}
+.bar4{
+    border-radius: 50px;
+    margin-left: 83px;
+}
+
+
+.slidebar{
+    border-radius: 50px;
+}
+
+/*  
+.now{
+    background-color: rgba(77, 75, 75, 0.568);
+    padding: 5px;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+*/
+
+/* Blog page */
+.sub-nav-bg{
+    background-color: rgb(16, 33, 58);
+    border: 1px solid white;
+    height: 50px;  
+}
+.sub-nav-bg a{
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: all 1s ease;
+}
+.sub-nav-bg a:hover{
+    background-color: rgb(17, 106, 223);
+    border-radius: 30px;
+}
+.newbie{
+    margin-top: 5px;
+}
+
+.blog-hero{
+    background-color: rgba(194, 194, 194, 0.336);
+    height: auto;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    transition: all 1s ease;
+}
+.bloggy-img img{
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.bloggy{
+
+    padding-bottom: 100px;
+}
+.blog-text{
+    padding-top: 10px;
+    transition: all 1s ease;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 20px;
+}
+.blog-text:hover{
+    background-color: rgba(54, 54, 54, 0.459);
+    border-radius: 20px;
+}
+.bloggggy{
+    padding-top: 20px;
+}
+.filter{
+    background-color: rgba(128, 128, 128, 0.39);
+    border-radius: 20px;
+    transition: all 1s ease;
+}
+.filter:hover{
+    background-color: rgba(58, 58, 58, 0.39);
+    border-radius: 20px;
+}
+ 
+/* Contact us */
+.getintouch{
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    letter-spacing: -2px;
+    color: rgb(17, 17, 17);
+}
+.getintouch-d{
+    letter-spacing: 1px;
+    font-size: 19px;
+    color: rgb(48, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+.main-ico{
+    margin-left: 275px;
+    margin-top: 20px;
+}
+.icon{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+.ico-g{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.icon-card-ct{
+    background: transparent;
+    color: rgba(20, 20, 20, 0.863);
+    padding-top: 10px;
+    margin-top: -40px;
+    width: 200px;
+    height: 100px;
+    transition: all 0.5s ease;
+}
+.icon-card-ct:hover{
+    background-color: rgba(17, 106, 223, 0.76);
+    border-radius: 10px;
+}
+.main-cont-bg{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.cont-f-b{
+    background-color: rgb(202, 202, 202);
+    border-radius: 12px;
+}
+
+.text-message{
+    margin-left: 330px;
+    margin-top: -155px;
+}
+
+.nothing{
+    margin-left: 25px;
+}
+.hell{
+    padding-top: 100px;
+
+}
+.hello-t{
+    text-decoration: none;
+    height: 280px;
+    border-radius: 9px;
+    width: 250px;
+}
+.adsf{
+    width: 700px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.myie{
+    background-color: rgba(199, 228, 255, 0.226);
+    height: 1000px;
+}
